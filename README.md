@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrimsonTRZ
 - 👀 I’m interested in IT related topics
-- 🌱 I’m currently learning Computer Science (Inteligent System)
+- 🌱 I’m a fresh grad with a bachelor degree in Computer Science (Artificial Inteligence)
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via email (alexanderkeongjr@gmail.com).
 
